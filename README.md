@@ -8,6 +8,10 @@
 </p>
 
 <p align="center">
+  <strong>Hubungi WA Business: 08996530612</strong>
+</p>
+
+<p align="center">
   <em>Solusi Akademik • Solusi Company • Aplikasi • Desain • Konten • Data — Aman, Unik, dan Terstruktur</em>
 </p>
 
