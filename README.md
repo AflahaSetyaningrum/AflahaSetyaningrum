@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <em>Solusi Akademik • Aplikasi • Desain • Konten • Data — Aman, Unik, dan Terstruktur</em>
+  <em>Solusi Akademik • Solusi Company • Aplikasi • Desain • Konten • Data — Aman, Unik, dan Terstruktur</em>
 </p>
 
 <!-- Typing Effect -->
