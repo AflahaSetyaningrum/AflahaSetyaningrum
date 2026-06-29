@@ -8,16 +8,16 @@
 </p>
 
 <p align="center">
-  <strong>Hubungi WA Business: 08996530612</strong>
-</p>
-
-<p align="center">
   <em>Solusi Akademik • Solusi Company • Aplikasi • Desain • Konten • Data — Aman, Unik, dan Terstruktur</em>
 </p>
 
 <!-- Typing Effect -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=650&lines=Jasa+Joki+Akademik+Profesional;Jasa+Joki+Company;Pembuatan+Aplikasi+%26+Sistem;Data+Scientist+%26+Analyst;Desain+Grafis+%26+Konten+Digital;Semua+Data+Klien+100%25+Aman+%F0%9F%94%92" />
+</p>
+
+<p align="center">
+  <strong>Hubungi WA Business: 08996530612</strong>
 </p>
 
 ---
